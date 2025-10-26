@@ -1,0 +1,89 @@
+BatchTrimmer – Freeware License (Version 1.0, October 2025)
+
+Copyright (c) 2025 Daniel Krämer, Weiterstadt, Germany
+
+1. Grant of Use
+This software is provided as freeware. It may be used free of charge by anyone, 
+provided that this license is included and the software remains unmodified.
+
+2. Copyright
+All rights to the program code, documentation, and included resources remain with the author. 
+Modification, decompilation, reverse engineering, or any other alteration is not permitted.
+
+3. Distribution
+Redistribution of the unmodified installation package is permitted 
+only if this license file remains included and the software is not sold or altered in any way.
+
+4. No Commercial Exploitation
+The software may not be sold, rented, or distributed for any form of compensation.
+
+5. Disclaimer of Liability
+Use of this software is at your own risk. 
+The author shall not be held liable for any direct, indirect, incidental, or consequential damages 
+arising from the use or inability to use this software, even if advised of the possibility of such damages.
+
+6. No Warranty
+This software is provided "as is," without express or implied warranties of any kind, 
+including but not limited to functionality, error-free operation, or fitness for a particular purpose.
+
+7. Modifications
+The author reserves the right to modify or discontinue the software at any time without prior notice.
+
+8. Termination
+Any violation of these license terms will result in the immediate termination of the right to use this software.
+
+#################################################################################################
+
+Program Description:
+
+BatchTrimmer is a desktop application for Windows that allows users to process multiple audio files in batch mode. 
+
+Its main functions include:
+- Trimming silence at the beginning and end of audio files based on a configurable threshold.
+- Normalizing audio levels using a peak-based method.
+- Applying fade-in and fade-out effects with adjustable duration.
+- Exporting processed files in various formats (WAV, MP3, FLAC, OGG, AAC) with selectable bit depth and sample rate.
+- Providing options for output folder, filename suffix, overwrite handling, and displaying processing status.
+
+Enjoy!
+
+#################################################################################################
+
+Optional German Translation (non-binding):
+
+BatchTrimmer – Freeware-Lizenz (Version 1.0, Oktober 2025)
+
+Urheberrecht (c) 2025 Daniel Krämer, Weiterstadt, Deutschland
+
+1. Nutzungsrecht
+Diese Software wird als Freeware bereitgestellt. Sie darf von jedermann kostenlos genutzt werden, 
+sofern diese Lizenz beiliegt und die Software unverändert bleibt.
+
+2. Urheberrecht
+Alle Rechte am Programmcode, an der Dokumentation und an allen mitgelieferten Ressourcen verbleiben beim Autor. 
+Veränderung, Dekompilierung, Reverse Engineering oder sonstige Modifikationen sind nicht gestattet.
+
+3. Weitergabe
+Die Weitergabe des unveränderten Installationspakets ist nur zulässig, 
+wenn diese Lizenzdatei beiliegt und die Software weder verkauft noch verändert wird.
+
+4. Keine kommerzielle Nutzung
+Die Software darf nicht verkauft, vermietet oder in irgendeiner Form gegen Entgelt weitergegeben werden.
+
+5. Haftungsausschluss
+Die Nutzung dieser Software erfolgt auf eigenes Risiko. 
+Der Autor übernimmt keinerlei Haftung für direkte, indirekte, zufällige oder Folgeschäden, 
+die durch die Nutzung oder Nichtnutzbarkeit dieser Software entstehen, 
+selbst wenn auf die Möglichkeit solcher Schäden hingewiesen wurde.
+
+6. Keine Garantie
+Diese Software wird „wie besehen“ bereitgestellt, ohne ausdrückliche oder stillschweigende Garantien jeglicher Art, 
+einschließlich, aber nicht beschränkt auf Funktionalität, Fehlerfreiheit oder Eignung für einen bestimmten Zweck.
+
+7. Änderungen
+Der Autor behält sich das Recht vor, die Software jederzeit ohne vorherige Ankündigung zu ändern oder einzustellen.
+
+8. Beendigung
+Ein Verstoß gegen diese Lizenzbedingungen führt zum sofortigen Entzug des Nutzungsrechts.
+
+#################################################################################################
