@@ -22,9 +22,8 @@ It is designed to streamline repetitive editing tasks and provide a simple, effi
 ## 🚀 Installation & Usage
 
 1. Download the latest release from the [Releases](./releases) section.  
-2. Extract the archive (if applicable).  
-3. Run `BatchTrimmer.exe`.  
-4. Add your audio files, configure processing parameters, and click **Execute**.
+2. Run `BatchTrimmer.exe`.  
+3. Add your audio files, configure processing parameters, and click **Execute**.
 
 ---
 
