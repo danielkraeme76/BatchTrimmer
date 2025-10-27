@@ -7,6 +7,8 @@ Remove the stills at the beginning and end of your recordings. You can fix the c
 
 LOFI vibes: Thanks to its wide range of target values for Bit-depth and Sample-Rate ​​down to 8 bit and 4 kHz, BatchTrimmer is also very well suited to quickly converting many files into a characteristic, retro-like sound.
 
+The application is a one-file .exe file. No installation is required and the program can be run from any media.
+
 ## ✨ Features
 
 - ✂️ **Silence trimming** at the beginning and end of files based on a configurable threshold (dBFS)
