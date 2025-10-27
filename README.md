@@ -27,8 +27,8 @@ The application is a one-file .exe file. No installation is required and the pro
 
 ## 🚀 Installation & Usage
 
-1. Download the latest release from the [Releases](./releases) section.  
-2. Run `BatchTrimmer.exe`.  
+1. Download the BatchTrimmer.exe
+2. Run BatchTrimmer.exe
 3. Add your audio files, configure processing parameters, and click **Execute**.
 
 ---
