@@ -38,7 +38,7 @@ This software is provided as **Freeware**.
 - non-commercial distribution is possible
 - No warranty, no liability  
 
-See [license.txt](url) for full details.
+See [Lizenz anzeigen](license.txt) for full details.
 
 ---
 
