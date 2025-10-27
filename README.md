@@ -5,7 +5,7 @@ It is designed to streamline repetitive editing tasks and provide a simple, effi
 
 Remove the stills at the beginning and end of your recordings. You can fix the clicks that occur at the cut points with fade-in and fade-out, and you can normalize the recordings in the same editing step.
 
-LOFI vibes: Thanks to its wide range of target values ​​up to 8 bit and 4 kHz, BatchTrimmer is also very well suited to quickly converting many files into a characteristic, retro-like sound.
+LOFI vibes: Thanks to its wide range of target values ​​down to 8 bit and 4 kHz, BatchTrimmer is also very well suited to quickly converting many files into a characteristic, retro-like sound.
 
 ## ✨ Features
 
