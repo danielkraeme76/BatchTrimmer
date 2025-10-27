@@ -40,7 +40,7 @@ This software is provided as **Freeware**.
 - non-commercial distribution is possible
 - No warranty, no liability  
 
-See [Lizenz anzeigen](license.txt) for full details.
+See [Show License](license.txt) for full details.
 
 ---
 
