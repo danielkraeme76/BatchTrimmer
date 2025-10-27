@@ -35,7 +35,7 @@ LOFI vibes: Thanks to its wide range of target values for Bit-depth and Sample-R
 
 This software is provided as **Freeware**.  
 - Free of charge for personal use  
-- Redistribution, publication, or upload is **strictly prohibited**  
+- non-commercial distribution is possible
 - No warranty, no liability  
 
 See [LICENSE.txt](./LICENSE.txt) for full details.
