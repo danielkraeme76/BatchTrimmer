@@ -16,11 +16,12 @@ The application is a one-file .exe file. No installation is required and the pro
 - 🎚️ **Fade In / Fade Out** with adjustable duration (ms)
 - 💾 **Formats**: load and save .wav and .aiff files
 - ⚙️ **Output options**:
-  - Bit depth: 8-Bit, 12-Bit, 16‑bit, 24‑bit, 32‑bit float
+  - Bit depth: 8-Bit, 16‑bit, 24‑bit, 32‑bit float
   - Sample rate: 4 kHz, 8 kHz, 11.25 kHz, 16 kHz, 22.50 kHz, 32 kHz 44.1 kHz, 48 kHz, 96 kHz
   - Custom output folder
   - Filename suffix
   - Overwrite option
+  - Batch convert to Mono (downmix)
 - 📋 **Status log** showing progress and errors during batch processing
 
 ---
