@@ -14,6 +14,7 @@ The application is a one-file .exe file. No installation is required and the pro
 - ✂️ **Silence trimming** at the beginning and end of files based on a configurable threshold (dBFS)
 - 📈 **Normalization** using a peak-based method
 - 🎚️ **Fade In / Fade Out** with adjustable duration (ms)
+- 🎚️ **Convert to mono** (downmix)
 - 💾 **Formats**: load and save .wav and .aiff files
 - ⚙️ **Output options**:
   - Bit depth: 8-Bit, 16‑bit, 24‑bit, 32‑bit float
@@ -21,7 +22,6 @@ The application is a one-file .exe file. No installation is required and the pro
   - Custom output folder
   - Filename suffix
   - Overwrite option
-  - Batch convert to Mono (downmix)
 - 📋 **Status log** showing progress and errors during batch processing
 
 ---
